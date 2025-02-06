@@ -47,3 +47,16 @@ body {
   font-size: 1.1rem;
   color: #444;
 }
+
+@media(max-width: 768px) {
+  .app-container {
+    width: 100%;
+    padding: 0.625rem;
+  }
+}
+
+@media (min-width: 768px) {
+  .container {
+    width: 50%;
+  }
+}

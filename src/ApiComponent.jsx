@@ -127,7 +127,7 @@ class ApiComponent extends Component {
 
     return (
       <div className="d-flex justify-content-center align-items-center">
-        <div className="container w-50">
+        <div className="container w-md-50">
           <div className="card p-4 shadow-lg">
             <h2 className="text-center">Week Four Deliverables</h2>
             <p className="text-center mb-0">
