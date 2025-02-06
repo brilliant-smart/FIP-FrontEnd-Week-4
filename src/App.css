@@ -1,0 +1,49 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Roboto', sans-serif;
+}
+
+.app-container {
+  margin-top: 3rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  /* I struggled alot to center the content */
+  width: 100vw;
+}
+
+.header {
+  font-family: 'Lora', serif;
+  color: #333;
+  font-weight: 700;
+  font-size: 2rem;
+}
+
+.paragraph {
+  font-family: 'Roboto', sans-serif;
+  color: #555;
+  font-size: 1.1rem;
+}
+
+.small-text {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 0.9rem;
+  color: #777;
+}
+
+.post-title {
+  font-family: 'Lora', serif;
+  font-size: 1.5rem;
+  font-weight: 600;
+}
+
+.post-body {
+  font-family: 'Roboto', sans-serif;
+  font-size: 1.1rem;
+  color: #444;
+}
